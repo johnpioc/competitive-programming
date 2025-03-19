@@ -3,4 +3,4 @@ project(codeforces_cpp)
 
 set(CMAKE_CXX_STANDARD 17)
 
-add_executable(codeforces_cpp main.cpp)
+add_executable(Football96A problem-set/Football96A.cpp)
