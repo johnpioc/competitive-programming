@@ -10,3 +10,5 @@ add_executable(SkibidusAndSigma2065D problem-set/SkibidusAndSigma2065D.cpp)
 
 # Contest Round 1009 Div 3
 add_executable(DrawASquare2074A contests/round1009div3/DrawASquare2074A.cpp)
+add_executable(TheThirdSide2074B contests/round1009div3/TheThirdSide2074B.cpp)
+add_executable(XORAndTriangle2074C contests/round1009div3/XORAndTriangle2074C.cpp)
