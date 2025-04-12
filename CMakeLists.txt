@@ -12,3 +12,9 @@ add_executable(SkibidusAndSigma2065D problem-set/SkibidusAndSigma2065D.cpp)
 add_executable(DrawASquare2074A contests/round1009div3/DrawASquare2074A.cpp)
 add_executable(TheThirdSide2074B contests/round1009div3/TheThirdSide2074B.cpp)
 add_executable(XORAndTriangle2074C contests/round1009div3/XORAndTriangle2074C.cpp)
+
+# Contest Round 1016 Div 3
+
+add_executable(IdealGenerator2093A contests/round1016div3/IdealGenerator2093A.cpp)
+add_executable(ExpensiveNumber2093B
+        contests/round1016div3/ExpensiveNumber2093B.cpp)
