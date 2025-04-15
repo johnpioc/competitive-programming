@@ -19,3 +19,4 @@ add_executable(IdealGenerator2093A contests/round1016div3/IdealGenerator2093A.cp
 # Contest Round 1017 Div 4
 add_executable(TrippiTroppi2094A contests/round1017div4/TrippiTroppi2094A.cpp)
 add_executable(BobrittoBandito2094B contests/round1017div4/BobrittoBandito2094B.cpp)
+add_executable(BrrBrrPatapim2094C contests/round1017div4/BrrBrrPatapim2094C.cpp)
