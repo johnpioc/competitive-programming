@@ -14,7 +14,8 @@ add_executable(TheThirdSide2074B contests/round1009div3/TheThirdSide2074B.cpp)
 add_executable(XORAndTriangle2074C contests/round1009div3/XORAndTriangle2074C.cpp)
 
 # Contest Round 1016 Div 3
-
 add_executable(IdealGenerator2093A contests/round1016div3/IdealGenerator2093A.cpp)
-add_executable(ExpensiveNumber2093B
-        contests/round1016div3/ExpensiveNumber2093B.cpp)
+
+# Contest Round 1017 Div 4
+add_executable(TrippiTroppi2094A contests/round1017div4/TrippiTroppi2094A.cpp)
+add_executable(BobrittoBandito2094B contests/round1017div4/BobrittoBandito2094B.cpp)
