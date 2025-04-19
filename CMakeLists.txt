@@ -25,3 +25,4 @@ add_executable(TeamTraining2091B problem-set/TeamTraining2091B.cpp)
 # Gym: Topic Stream Mashup Graphs
 add_executable(NewYearTransportation gym/topic-stream-mashup-graphs/NewYearTransportation.cpp)
 add_executable(Rumor gym/topic-stream-mashup-graphs/Rumor.cpp)
+add_executable(NewsDistribution gym/topic-stream-mashup-graphs/NewsDistribution.cpp)
