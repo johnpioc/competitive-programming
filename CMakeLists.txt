@@ -29,3 +29,4 @@ add_executable(NewsDistribution gym/topic-stream-mashup-graphs/NewsDistribution.
 add_executable(MaximumGCD gym/topic-stream-mashup-number-theory/MaximumGCD.cpp)
 add_executable(EhabAndGcd gym/topic-stream-mashup-number-theory/EhabAndGcd.cpp)
 add_executable(CatCycle gym/topic-stream-mashup-number-theory/CatCycle.cpp)
+add_executable(NewYearAndTheSphereTransmission gym/topic-stream-mashup-number-theory/NewYearAndTheSphereTransmission.cpp)
