@@ -27,3 +27,4 @@ add_executable(NewYearTransportation gym/topic-stream-mashup-graphs/NewYearTrans
 add_executable(Rumor gym/topic-stream-mashup-graphs/Rumor.cpp)
 add_executable(NewsDistribution gym/topic-stream-mashup-graphs/NewsDistribution.cpp)
 add_executable(MaximumGCD gym/topic-stream-mashup-number-theory/MaximumGCD.cpp)
+add_executable(EhabAndGcd gym/topic-stream-mashup-number-theory/EhabAndGcd.cpp)
