@@ -26,7 +26,12 @@ add_executable(TeamTraining2091B problem-set/TeamTraining2091B.cpp)
 add_executable(NewYearTransportation gym/topic-stream-mashup-graphs/NewYearTransportation.cpp)
 add_executable(Rumor gym/topic-stream-mashup-graphs/Rumor.cpp)
 add_executable(NewsDistribution gym/topic-stream-mashup-graphs/NewsDistribution.cpp)
+
+# Gym: Topic Stream Mashup Number Theory
 add_executable(MaximumGCD gym/topic-stream-mashup-number-theory/MaximumGCD.cpp)
 add_executable(EhabAndGcd gym/topic-stream-mashup-number-theory/EhabAndGcd.cpp)
 add_executable(CatCycle gym/topic-stream-mashup-number-theory/CatCycle.cpp)
 add_executable(NewYearAndTheSphereTransmission gym/topic-stream-mashup-number-theory/NewYearAndTheSphereTransmission.cpp)
+
+# Contest Round 1013 Div 3
+add_executable(OlympiadDate2091A contests/round1013div3/OlympiadDate2091A.cpp)
