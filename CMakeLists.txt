@@ -36,3 +36,4 @@ add_executable(NewYearAndTheSphereTransmission gym/topic-stream-mashup-number-th
 # Contest Round 1013 Div 3
 add_executable(OlympiadDate2091A contests/round1013div3/OlympiadDate2091A.cpp)
 add_executable(CombinationLock2091C contests/round1013div3/CombinationLock2091C.cpp)
+add_executable(PlaceOfTheOlympiad2091D contests/round1013div3/PlaceOfTheOlympiad2091D.cpp)
