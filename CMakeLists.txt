@@ -41,3 +41,4 @@ add_executable(PlaceOfTheOlympiad2091D contests/round1013div3/PlaceOfTheOlympiad
 # Contest Round 1006 Div 3
 
 add_executable(NewWorldNewMeNewArray2072A contests/round1006div3/NewWorldNewMeNewArray2072A.cpp)
+add_executable(HavingBeenATreasurerInThePastIHelpGoblinsDecieve2072B contests/round1006div3/HavingBeenATreasurerInThePastIHelpGoblinsDecieve2072B.cpp)
