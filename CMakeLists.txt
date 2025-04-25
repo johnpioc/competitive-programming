@@ -44,7 +44,14 @@ add_executable(NewWorldNewMeNewArray2072A contests/round1006div3/NewWorldNewMeNe
 add_executable(HavingBeenATreasurerInThePastIHelpGoblinsDecieve2072B contests/round1006div3/HavingBeenATreasurerInThePastIHelpGoblinsDecieve2072B.cpp)
 add_executable(ForWizardsTheExamIsEasyButICouldntHandleIt2072D contests/round1006div3/ForWizardsTheExamIsEasyButICouldntHandleIt2072D.cpp)
 add_executable(CreatingKeysForStoragesHasBecomeMyMainSkill2072C contests/round1006div3/CreatingKeysForStoragesHasBecomeMyMainSkill2072C.cpp)
+
+# Contest Round 998 Div 3
+
 add_executable(Fibonacciness2060A contests/round998div3/Fibonacciness2060A.cpp)
 add_executable(FarmerJohnsCardGame2060B contests/round998div3/FarmerJohnsCardGame2060B.cpp)
 add_executable(GameOfMathletes2060C contests/round998div3/GameOfMathletes2060C.cpp)
-add_executable(SubtractMinSort2060D contests/round998div3/SubtractMinSort2060D.cpp)
+
+# Contest Round 1020 Div 3
+
+add_executable(DrTC2106A contests/round1020div3/DrTC2106A.cpp)
+add_executable(StChroma2106B contests/round1020div3/StChroma2016B.cpp)
