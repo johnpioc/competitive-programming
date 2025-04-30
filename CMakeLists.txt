@@ -56,3 +56,4 @@ add_executable(GameOfMathletes2060C contests/round998div3/GameOfMathletes2060C.c
 add_executable(DrTC2106A contests/round1020div3/DrTC2106A.cpp)
 add_executable(StChroma2106B contests/round1020div3/StChroma2016B.cpp)
 add_executable(CherryBomb2106C contests/round1020div3/CherryBomb2106C.cpp)
+add_executable(HalloumiBoxes1903A cp-31/800/HalloumiBoxes1903A.cpp)
