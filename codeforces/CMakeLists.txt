@@ -60,4 +60,5 @@ add_executable(HalloumiBoxes1903A cp-31/800/HalloumiBoxes1903A.cpp)
 add_executable(LineTrip1901A cp-31/800/LineTrip1901A.cpp)
 add_executable(CoverInWater1900A cp-31/800/CoverInWater1900A.cpp)
 add_executable(GameWithIntegers1899A cp-31/800/GameWithIntegers1899A.cpp)
-add_executable(CodejamMain codejam/CodejamMain.cpp)
+
+add_executable(HowMuchDoesDaytonaCost1878A cp-31/800/HowMuchDoesDaytonaCost1878A.cpp)
