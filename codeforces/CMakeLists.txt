@@ -56,9 +56,11 @@ add_executable(GameOfMathletes2060C contests/round998div3/GameOfMathletes2060C.c
 add_executable(DrTC2106A contests/round1020div3/DrTC2106A.cpp)
 add_executable(StChroma2106B contests/round1020div3/StChroma2016B.cpp)
 add_executable(CherryBomb2106C contests/round1020div3/CherryBomb2106C.cpp)
+
+# CP-31: 800
 add_executable(HalloumiBoxes1903A cp-31/800/HalloumiBoxes1903A.cpp)
 add_executable(LineTrip1901A cp-31/800/LineTrip1901A.cpp)
 add_executable(CoverInWater1900A cp-31/800/CoverInWater1900A.cpp)
 add_executable(GameWithIntegers1899A cp-31/800/GameWithIntegers1899A.cpp)
-
 add_executable(HowMuchDoesDaytonaCost1878A cp-31/800/HowMuchDoesDaytonaCost1878A.cpp)
+add_executable(SequenceGame1826b cp-31/800/SequenceGame1862B.cpp)
