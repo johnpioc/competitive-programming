@@ -16,3 +16,5 @@ add_executable(ClimbingStairs70 neetcode-150/1d-dynamic-programming/ClimbingStai
 add_executable(MinCostClimbingStairs746 neetcode-150/1d-dynamic-programming/MinCostClimbingStairs746.cpp)
 add_executable(HappyNumber202 neetcode-150/math-and-geometry/HappyNumber202.cpp)
 add_executable(PlusOne66 neetcode-150/math-and-geometry/PlusOne66.cpp)
+add_executable(GroupAnagrams49 neetcode-150/arrays-and-hashing/GroupAnagrams49.cpp)
+add_executable(TopKFrequentElements347 neetcode-150/arrays-and-hashing/TopKFrequentElements347.cpp)
