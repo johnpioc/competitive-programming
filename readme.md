@@ -4,8 +4,28 @@ Solutions to competitive programming problems found on Leetcode and Codeforces.
 
 Here are my stats:
 
-- **Codeforces Problems Solved:** 51
 - **LeetCode Problems Solved:** 15
+- **Codeforces Problems Solved:** 44
+
+## Leetcode
+
+| #   | Problem                                                                                                       | Difficulty | Solution                                                                                                                                         | Time   | Memory |
+|-----|---------------------------------------------------------------------------------------------------------------|------------|--------------------------------------------------------------------------------------------------------------------------------------------------|--------|--------|
+| 1   | [Two Sum](https://leetcode.com/problems/two-sum/description/)                                                 | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/TwoSum1.cpp)                      | 1 ms   | 15 MB  |
+| 20  | [Valid Parentheses](https://leetcode.com/problems/valid-parentheses/description/)                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/stack/ValidParentheses20.cpp)                        | 0 ms   | 9 MB   |
+| 21  | [Marge Two Sorted Lists](https://leetcode.com/problems/merge-two-sorted-lists/description/)                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/linked-list/MergeTwoSortedLists21.cpp)               | 0 ms   | 20 MB  |
+| 66  | [Plus One](https://leetcode.com/problems/plus-one/description/)                                               | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/math-and-geometry/PlusOne66.cpp)                     | 0 ms   | 12 MB  |
+| 70  | [Climbing Stairs](https://leetcode.com/problems/climbing-stairs/description/)                                 | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/1d-dynamic-programming/ClimbingStairs70.cpp)         | 0      | 9 MB   |
+| 121 | [Best Time to Buy and Sell Stock](https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/) | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/sliding-window/BestTimeToBuyAndSellStock121.cpp)     | 4 ms   | 101 MB |                                                
+| 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                               | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/two-pointers/ValidPalindrome125.cpp)                 | 3 ms   | 10 MB  | 
+| 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/linked-list/LinkedListCycle141.cpp)                  | 14 ms  | 15 MB  |
+| 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                             | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/graphs/NumberOfIslands200.cpp)                       | 302 ms | 54 MB  |
+| 202 | [Happy Number](https://leetcode.com/problems/happy-number/description/)                                       | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/math-and-geometry/HappyNumber202.cpp)                | 0 ms   | 9 MB   |
+| 206 | [Reverse Linked List](https://leetcode.com/problems/reverse-linked-list/description/)                         | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/linked-list/ReverseLinkedList206.cpp)                | 0 ms   | 13 MB  |
+| 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                           | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ContainsDuplicate217.cpp)         | 103 ms | 92 MB  |
+| 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                     | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ValidAnagram242.cpp)              | 4 ms   | 10 MB  |
+| 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                     | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/binary-search/BinarySearch704.cpp)                   | 0 ms   | 32 MB  |
+| 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)               | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/1d-dynamic-programming/MinCostClimbingStairs746.cpp) | 0 ms   | 18 MB  |
 
 ## Codeforces
 
