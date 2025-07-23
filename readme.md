@@ -4,7 +4,7 @@ Solutions to competitive programming problems found on Leetcode and Codeforces.
 
 Here are my stats:
 
-- **LeetCode Problems Solved:** 17
+- **LeetCode Problems Solved:** 23
 - **Codeforces Problems Solved:** 44
 
 ## Leetcode
@@ -31,6 +31,7 @@ Here are my stats:
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ProductOfArrayExceptSelf238.cpp)             | 3 ms   | 42 MB  |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ValidAnagram242.cpp)                         | 4 ms   | 10 MB  |
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                               | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/TopKFrequentElements347.cpp)                 | 7 ms   | 18 MB  |
+| 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                   | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/PermutationInString567.cpp)                  | 3 ms   | 10 MB  |
 | 704 | [Binary Search](https://leetcode.com/problems/binary-search/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/binary-search/BinarySearch704.cpp)                              | 0 ms   | 32 MB  |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/1d-dynamic-programming/MinCostClimbingStairs746.cpp)            | 0 ms   | 18 MB  |
 
