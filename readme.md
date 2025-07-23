@@ -4,7 +4,7 @@ Solutions to competitive programming problems found on Leetcode and Codeforces.
 
 Here are my stats:
 
-- **LeetCode Problems Solved:** 23
+- **LeetCode Problems Solved:** 25
 - **Codeforces Problems Solved:** 44
 
 ## Leetcode
@@ -23,6 +23,7 @@ Here are my stats:
 | 125 | [Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/)                                                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/two-pointers/ValidPalindrome125.cpp)                            | 3 ms   | 10 MB  |
 | 128 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/description/)                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/LongestConsecutiveSequence128.cpp)           | 440 ms | 122 MB |
 | 141 | [Linked List Cycle](https://leetcode.com/problems/linked-list-cycle/description/)                                                           | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/linked-list/LinkedListCycle141.cpp)                             | 14 ms  | 15 MB  |
+| 150 | [Evaluate Reverse Polish Notation](https://leetcode.com/problems/evaluate-reverse-polish-notation/description/)                             | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/stack/EvaluateReversePolishNotation155.cpp)                     | 0 ms   | 17 MB  |
 | 155 | [Min Stack](https://leetcode.com/problems/min-stack/submissions/1707874665/)                                                                | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/stack/MinStack155.cpp)                                          | 0 ms   | 23 MB  |
 | 167 | [Two Sum II - Input Array is Sorted](https://leetcode.com/problems/two-sum-ii-input-array-is-sorted/description/)                           | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/two-pointers/TwoSum2InputArrayIsSorted167.cpp)                  | 0 ms   | 20 MB  |
 | 200 | [Number of Islands](https://leetcode.com/problems/number-of-islands/description/)                                                           | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/graphs/NumberOfIslands200.cpp)                                  | 302 ms | 54 MB  |
