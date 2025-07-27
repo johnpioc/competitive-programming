@@ -4,7 +4,7 @@ Solutions to competitive programming problems found on Leetcode and Codeforces.
 
 Here are my stats:
 
-- **LeetCode Problems Solved:** 28
+- **LeetCode Problems Solved:** 31
 - **Codeforces Problems Solved:** 44
 
 ## Leetcode
@@ -41,6 +41,7 @@ Here are my stats:
 | 739 | [Daily Temperatures](https://leetcode.com/problems/daily-temperatures/description/)                                                         | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/stack/DailyTemperatures739.cpp)                                 | 23 ms  | 103 MB |
 | 746 | [Min Cost Climbing Stairs](https://leetcode.com/problems/min-cost-climbing-stairs/description/)                                             | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/1d-dynamic-programming/MinCostClimbingStairs746.cpp)            | 0 ms   | 18 MB  |
 | 853 | [Car Fleet](https://leetcode.com/problems/car-fleet/description/)                                                                           | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/stack/CarFleet853.cpp)                                          | 43 ms  | 78 MB  |
+| 994 | [Rotting Oranges](https://leetcode.com/problems/rotting-oranges/description/)                                                               | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/graphs/RottingOranges994.cpp)                                   | 0 ms   | 17 MB  |
 
 ## Codeforces
 
