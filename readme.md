@@ -4,7 +4,7 @@ Solutions to competitive programming problems found on Leetcode and Codeforces.
 
 Here are my stats:
 
-- **LeetCode Problems Solved:** 31
+- **LeetCode Problems Solved:** 36
 - **Codeforces Problems Solved:** 44
 
 ## Leetcode
@@ -38,6 +38,7 @@ Here are my stats:
 | 217 | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                                         | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ContainsDuplicate217.cpp)                    | 103 ms | 92 MB  |
 | 238 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ProductOfArrayExceptSelf238.cpp)             | 3 ms   | 42 MB  |
 | 242 | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ValidAnagram242.cpp)                         | 4 ms   | 10 MB  |
+| 338 | [Counting Bits](https://leetcode.com/problems/counting-bits/description/) | Easy | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/bit-manipulation/CountingBits338.cpp)
 | 347 | [Top K Frequent Elements](https://leetcode.com/problems/top-k-frequent-elements/description/)                                               | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/TopKFrequentElements347.cpp)                 | 7 ms   | 18 MB  |
 | 567 | [Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)                                                   | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/PermutationInString567.cpp)                  | 3 ms   | 10 MB  |
 | 695 | [Max Area of Island](https://leetcode.com/problems/max-area-of-island/)                                                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/graphs/MaxAreaOfIsland695.cpp)                                  | 178 ms | 49 MB  |
