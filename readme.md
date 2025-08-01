@@ -4,7 +4,7 @@ Solutions to competitive programming problems found on Leetcode and Codeforces.
 
 Here are my stats:
 
-- **LeetCode Problems Solved:** 44
+- **LeetCode Problems Solved:** 47
 - **Codeforces Problems Solved:** 44
 
 ## Leetcode
@@ -42,6 +42,7 @@ Here are my stats:
 | 207  | [Course Schedule](https://leetcode.com/problems/course-schedule/description/)                                                               | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/graphs/CourseSchedule207.cpp)                                   | 11 ms  | 22 MB  | 
 | 217  | [Contains Duplicate](https://leetcode.com/problems/contains-duplicate/description/)                                                         | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ContainsDuplicate217.cpp)                    | 103 ms | 92 MB  |
 | 226  | [Invert Binary Tree](https://leetcode.com/problems/invert-binary-tree/description/)                                                         | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/trees/InvertBinaryTree226.cpp)                                  | 0 ms   | 13 MB  |
+| 230  | [Kth Smallest Element in a BST](https://leetcode.com/problems/kth-smallest-element-in-a-bst/description/)                                   | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/trees/KthSmallestElementInABST230.cpp)                          | 0 ms   | 24 MB  |
 | 238  | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/description/)                                     | Medium     | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ProductOfArrayExceptSelf238.cpp)             | 3 ms   | 42 MB  |
 | 242  | [Valid Anagram](https://leetcode.com/problems/valid-anagram/description/)                                                                   | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/arrays-and-hashing/ValidAnagram242.cpp)                         | 4 ms   | 10 MB  |
 | 268  | [Missing Number](https://leetcode.com/problems/missing-number/description/)                                                                 | Easy       | [C++20](https://github.com/johnpioc/competitive-programming/blob/main/leetcode/neetcode-150/bit-manipulation/MissingNumber268.cpp)                          | 2 ms   | 22 MB  |   
